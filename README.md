@@ -1,1 +1,1 @@
-ECHO est  ativado.
+Studying algorithms with exercises.
